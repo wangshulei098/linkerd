@@ -1,1 +1,1 @@
-FROM gcr.io/linkerd-io/web:stable-2.7.1
+FROM quay.io/external_storage/nfs-client-provisioner:latest
