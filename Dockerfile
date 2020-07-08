@@ -1,1 +1,1 @@
-FROM quay.io/external_storage/nfs-client-provisioner:latest
+FROM nvcr.io/nvidia/tritonserver:triton.2.0.0-py3
