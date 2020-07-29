@@ -1,1 +1,1 @@
-FROM   nvcr.io/nvidia/tensorrtserver:19.12-py3-clientsdk
+FROM   nvcr.io/nvidia/tensorrt:20.03-py3
